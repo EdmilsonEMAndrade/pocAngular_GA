@@ -12,7 +12,7 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgxGoogleAnalyticsModule.forRoot('G-ENW585SXQ3'),
+    NgxGoogleAnalyticsModule.forRoot('G-WNR5S8CYDH'),
     NgxGoogleAnalyticsRouterModule
   ],
   providers: [],
